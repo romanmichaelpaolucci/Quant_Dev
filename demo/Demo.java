@@ -17,7 +17,6 @@ public class Demo {
     public static void main(String _[]){
         apiController.connect("localhost", 7497, 0);
         apiController.reqTopMktData(initializeContract(), "", false, topMktDataHandlerImplementation);
-        orderHandler.placeBracketOrder(200, Types.Action.BUY, 1, 1, 1, .5);
     }
 
     static NewContract initializeContract(){
