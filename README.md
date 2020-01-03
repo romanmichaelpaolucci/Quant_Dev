@@ -1,2 +1,2 @@
-# Quant_Dev
-A solution to critical stages of algorithmic trading system development using Interactive Broker's Java API
+# Interactive Brokers Java API implementation
+https://medium.com/auquan/algorithmic-trading-system-development-1a5a200af260
